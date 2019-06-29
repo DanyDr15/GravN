@@ -1,0 +1,11 @@
+state: enabled
+email: dapianchiche@gmail.com
+fullname: Graficacion
+title: Blog
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$I0BAeRmbkenQlI7nrsvFbulasxSjGeUornrrOlzsYkLE6yZB7UaLO
