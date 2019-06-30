@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1561848330,
-    'checksum' => '828b92614c5c8c0424d87a329e1c1fc0',
+    'timestamp' => 1561850499,
+    'checksum' => '14c7c50fb6db53c03783556d45f21e57',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -12,6 +12,10 @@ return [
             'media' => [
                 'file' => 'user/config/media.yaml',
                 'modified' => 1561848321
+            ],
+            'plugins/ganalytics' => [
+                'file' => 'user/config/plugins/ganalytics.yaml',
+                'modified' => 1561850499
             ],
             'scheduler' => [
                 'file' => 'user/config/scheduler.yaml',
@@ -31,7 +35,11 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1561848309
+                'modified' => 1561849018
+            ],
+            'themes/quark' => [
+                'file' => 'user/config/themes/quark.yaml',
+                'modified' => 1561849141
             ]
         ],
         'system/config' => [
@@ -72,6 +80,10 @@ return [
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
                 'modified' => 1561848309
+            ],
+            'plugins/ganalytics' => [
+                'file' => 'user/plugins/ganalytics/ganalytics.yaml',
+                'modified' => 1561850410
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
@@ -190,6 +202,24 @@ return [
                         'visitors' => 20
                     ]
                 ]
+            ],
+            'ganalytics' => [
+                'enabled' => true,
+                'trackingId' => 'UA-142867048-1',
+                'position' => 'head',
+                'objectName' => 'ga',
+                'forceSsl' => false,
+                'async' => false,
+                'anonymizeIp' => false,
+                'blockedIps' => [
+                    
+                ],
+                'cookieConfig' => false,
+                'cookieName' => '_ga',
+                'cookieDomain' => '',
+                'cookieExpires' => 63072000,
+                'debugStatus' => false,
+                'debugTrace' => false
             ],
             'form' => [
                 'enabled' => true,
@@ -706,7 +736,7 @@ node_modules'
                 'override_locale' => false
             ],
             'home' => [
-                'alias' => '/home',
+                'alias' => '/bienvenidos-a-graficacion',
                 'hide_in_urls' => false
             ],
             'pages' => [
@@ -760,7 +790,7 @@ node_modules'
                 'etag' => false,
                 'vary_accept_encoding' => false,
                 'redirect_default_route' => false,
-                'redirect_default_code' => 302,
+                'redirect_default_code' => '302',
                 'redirect_trailing_slash' => true,
                 'ignore_files' => [
                     0 => '.DS_Store'
@@ -825,7 +855,7 @@ node_modules'
                 ]
             ],
             'errors' => [
-                'display' => true,
+                'display' => 1,
                 'log' => true
             ],
             'log' => [
@@ -857,7 +887,8 @@ node_modules'
                 'allowed_fallback_types' => [
                     
                 ],
-                'auto_metadata_exif' => false
+                'auto_metadata_exif' => false,
+                'upload_limit' => 2097152
             ],
             'session' => [
                 'enabled' => true,
@@ -888,6 +919,31 @@ node_modules'
         ],
         'scheduler' => [
             
+        ],
+        'themes' => [
+            'quark' => [
+                'enabled' => true,
+                'production-mode' => true,
+                'grid-size' => 'grid-lg',
+                'header-fixed' => true,
+                'header-animated' => true,
+                'header-dark' => true,
+                'header-transparent' => true,
+                'sticky-footer' => true,
+                'blog-page' => '/blog',
+                'spectre' => [
+                    'exp' => false,
+                    'icons' => false
+                ],
+                'custom_logo' => [
+                    'user/themes/quark/images/logo/Logo-Dany-Ocean_ws-1.png' => [
+                        'name' => 'Logo-Dany-Ocean_ws-1.png',
+                        'type' => 'image/png',
+                        'size' => 3108,
+                        'path' => 'user/themes/quark/images/logo/Logo-Dany-Ocean_ws-1.png'
+                    ]
+                ]
+            ]
         ]
     ]
 ];

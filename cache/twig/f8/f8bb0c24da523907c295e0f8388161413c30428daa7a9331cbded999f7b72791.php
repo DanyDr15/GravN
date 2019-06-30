@@ -32,7 +32,7 @@ class __TwigTemplate_213f83cd48c338215b32d4e18ded14ec47d9d9b8c97d06f41a384f9b0d3
         // line 2
         echo ($context["grid_size"] ?? null);
         echo "\">
-        <p><a href=\"http://getgrav.org\">Grav</a> was <i class=\"fa fa-code\"></i> with <i class=\"fa fa-heart-o pulse \"></i> by <a href=\"https://trilby.media\">Trilby Media</a>.</p>
+        <p><a href=\"http://getgrav.org\">Pagina hecha por Dany</a>.</p>
     </section>
 </section>
 ";
@@ -65,7 +65,7 @@ class __TwigTemplate_213f83cd48c338215b32d4e18ded14ec47d9d9b8c97d06f41a384f9b0d3
     {
         return new Source("<section id=\"footer\" class=\"section bg-gray\">
     <section class=\"container {{ grid_size }}\">
-        <p><a href=\"http://getgrav.org\">Grav</a> was <i class=\"fa fa-code\"></i> with <i class=\"fa fa-heart-o pulse \"></i> by <a href=\"https://trilby.media\">Trilby Media</a>.</p>
+        <p><a href=\"http://getgrav.org\">Pagina hecha por Dany</a>.</p>
     </section>
 </section>
 ", "partials/footer.html.twig", "/var/www/html/grav/user/themes/quark/templates/partials/footer.html.twig");
