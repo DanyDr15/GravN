@@ -123,7 +123,7 @@ class __TwigTemplate_596314722b2e077c357a6cff116e2c6ff4411e944297c8e871fb646047f
         // line 19
         echo twig_escape_filter($this->env, ($context["base_url_simple"] ?? null), "html", null, true);
         echo twig_escape_filter($this->env, ($context["theme_url"] ?? null), "html", null, true);
-        echo "/images/favicon.png\">
+        echo "/images/danny.png\">
 
         ";
         // line 21

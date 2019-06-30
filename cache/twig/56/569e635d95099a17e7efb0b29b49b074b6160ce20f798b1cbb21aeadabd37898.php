@@ -157,7 +157,7 @@ class __TwigTemplate_4a66cf6b5fadbb5ddf91195c5d9231669449a8a79927d5235a2a2b52893
         echo "
     <link rel=\"icon\" type=\"image/png\" href=\"";
         // line 15
-        echo $this->env->getExtension('Grav\Common\Twig\TwigExtension')->urlFunc("theme://images/favicon.png");
+        echo $this->env->getExtension('Grav\Common\Twig\TwigExtension')->urlFunc("theme://images/danny.png");
         echo "\" />
     <link rel=\"canonical\" href=\"";
         // line 16
@@ -408,7 +408,7 @@ class __TwigTemplate_4a66cf6b5fadbb5ddf91195c5d9231669449a8a79927d5235a2a2b52893
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
     {% include 'partials/metadata.html.twig' %}
 
-    <link rel=\"icon\" type=\"image/png\" href=\"{{ url('theme://images/favicon.png') }}\" />
+    <link rel=\"icon\" type=\"image/png\" href=\"{{ url('theme://images/danny.png') }}\" />
     <link rel=\"canonical\" href=\"{{ page.url(true, true) }}\" />
 {% endblock head %}
 
