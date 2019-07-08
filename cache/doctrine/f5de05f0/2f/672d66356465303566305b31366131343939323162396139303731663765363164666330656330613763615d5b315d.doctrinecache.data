@@ -1,0 +1,32 @@
+1563224659
+a:2:{s:7:"content";s:1554:"
+<section class="section modular-text  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns right">
+                        <div class="column col-6 col-md-12">
+                <h2>Phaser</h2>
+<p>Es un marco de juego 2D de codigo abierto para hacer juegos HTML5 para computadoras y móviles, que es desarrollado por Photon Storm.Los juegos se pueden compilar para iOS, Android y aplicaciones de escritorio nativas.Phaser tiene alto desarrollo con un paquete excelente y multiples herramientas que pueden ayudar a completar el desarrollo del juego de manera extremadamente rápida.</p>
+<h2>Para que sirve?</h2>
+<p>Pixi es una gran biblioteca de renderización rápida que se centra en Canvas y WebGL y sirve una serie de herramientas que acelerarán el desarrollo y te ayudaran a manejar las tareas genéricas necesarias para completar tu juego, para que así puedas concentrarte en la idea del juego en sí.</p>
+<h4>Ventajas y desventaja en Jump &amp; Run</h4>
+<blockquote>
+<h5>Ventajas</h5>
+<ul>
+<li>Open Source</li>
+<li>La pre-carga de archivos</li>
+<li>Un editor visual para la creación facil de juegos</li>
+<li>Es un buen framework, orientado principalmente a usuarios con conocimientos intermedios</li>
+</ul>
+<h5>Desventajas</h5>
+<ul>
+<li>No es del todo intuitivo el editor visual</li>
+</ul>
+</blockquote>
+            </div>
+            <div class="column col-6 col-md-12">
+                <img alt="" src="/user/pages/analisis/_phaser/phaser.png" />
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

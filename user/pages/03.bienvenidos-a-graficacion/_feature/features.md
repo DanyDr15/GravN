@@ -10,6 +10,11 @@ features:
         text: 'Juego del examen'
         url: /examen
     -
+        icon: 'fa fa-google-plus'
+        header: 'Google Analytic'
+        text: 'Visitas a la pagina'
+        url: 'https://analytics.google.com/analytics/web/#/report-home/a142867048w204134053p197581472'
+    -
         icon: 'fa fa-rocket'
         header: Phaser
         text: 'Juego hecho con phaser'
