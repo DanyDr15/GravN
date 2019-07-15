@@ -1,5 +1,6 @@
 ---
-title: Realidad
+title: lab1
+media_order: pattern-lab1.png
 image_align: left
 ---
 
