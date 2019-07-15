@@ -9,11 +9,8 @@
     <a-scene embedded arjs>
         <a-marker-camera type='pattern' url='path/pattern-lab1.patt'>
  
-          <a-anchor hit-testing-enabled='true'>
-              <!-- Add your augmented reality here -->
-              <a-box position='0 0.5 0' material='opacity: 0.5; side:double; color:red;'>
-                <a-entity text="value: Hello World;"></a-entity>
-              </a-box>
+          <a-text value="ABCあいうえお日本語" font="custom-msdf.json" negate="false" scale="2 2 1" position="-2 2 -4"></a-text>
+        <a-box position='0 1 0' material='color: pink;'></a-box>
             </a-anchor>
 
        </a-marker-camera>
