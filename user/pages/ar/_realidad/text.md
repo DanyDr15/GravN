@@ -1,7 +1,8 @@
 ---
 title: Realidad
-media_order: HIRO.jpg
 image_align: left
 ---
 
-[clicaqui](https://danydr.com/user/realidad/three.js/examples/mobile-performance.html)
+##Realidad Aumentada
+Para vizualizar la realidad aumentada es necesario darle click al siguiente enlace lo cual accedera a la camara, luego con la camara apuntas al marcador.
+[CLICK](https://danydr.com/user/realidad/index2.html)

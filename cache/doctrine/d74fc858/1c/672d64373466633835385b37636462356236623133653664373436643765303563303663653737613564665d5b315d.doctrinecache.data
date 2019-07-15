@@ -1,0 +1,17 @@
+1563824713
+a:2:{s:7:"content";s:674:"
+<section class="section modular-text  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns left">
+                        <div class="column col-6 col-md-12">
+                <h2>Realidad Aumentada</h2>
+<p>Para vizualizar la realidad aumentada es necesario darle click al siguiente enlace lo cual accedera a la camara, luego con la camara apuntas al marcador.
+<a href="https://danydr.com/user/realidad/index2.html">CLICK</a></p>
+            </div>
+            <div class="column col-6 col-md-12">
+                <img alt="" src="/user/pages/ar/_realidad/pattern-lab1.png" />
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

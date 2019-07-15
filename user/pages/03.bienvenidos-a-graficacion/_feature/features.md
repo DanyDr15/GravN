@@ -5,6 +5,11 @@ child_type: item
 class: small
 features:
     -
+        icon: 'fa fa-qrcode'
+        header: AR
+        text: 'Realidad Aumentada'
+        url: /ar
+    -
         icon: 'fa fa-lightbulb-o'
         header: MEMORIA
         text: 'Juego del examen'
