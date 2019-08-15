@@ -1,0 +1,31 @@
+1563224659
+a:2:{s:7:"content";s:1255:"
+<section class="section modular-text  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns left">
+                        <div class="column col-6 col-md-12">
+                <h2>GDevelop</h2>
+<h4>GDevelop es un creador de juegos</h4>
+<p>Código abierto
+Multiplataforma
+Permite desarrollar juegos en HTML5
+No requiere tener conocimientos de programación
+Funciona en formato de ejecutable como Windos o Mac
+Es fácil de usar y lo suficientemente potente como para usuarios avanzados</p>
+<h4>Para que sirve?</h4>
+<p>Sirve para crear juegos en 2D con una facilidad impresionante, sin necesidad de conocer ningún lenguaje de programación y lo mejor de todo, es que el juego que se crea estará perfectamente personalizado para cumplir los requerimientos del creador.</p>
+<h4>Ventajas y desventaja en Jump &amp; Run</h4>
+<h5>Ventajas</h5>
+<p>Gran parte de su documentación es en español
+Se puede utilizar en Linux
+Crea juegos para dispositivos móviles</p>
+<h5>Desventajas</h5>
+<p>Pesa mucho los programas</p>
+            </div>
+            <div class="column col-6 col-md-12">
+                <img alt="" src="/user/pages/analisis/_develop/develop.png" />
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

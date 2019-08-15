@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1561850499,
-    'checksum' => '14c7c50fb6db53c03783556d45f21e57',
+    'timestamp' => 1562620009,
+    'checksum' => '7cec0b0443436babaa15726cfaecb829',
     'files' => [
         'user/config' => [
             'backups' => [
@@ -12,6 +12,10 @@ return [
             'media' => [
                 'file' => 'user/config/media.yaml',
                 'modified' => 1561848321
+            ],
+            'plugins/email' => [
+                'file' => 'user/config/plugins/email.yaml',
+                'modified' => 1561860211
             ],
             'plugins/ganalytics' => [
                 'file' => 'user/config/plugins/ganalytics.yaml',
@@ -87,7 +91,7 @@ return [
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1561848305
+                'modified' => 1562620007
             ],
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
@@ -99,7 +103,7 @@ return [
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1561848306
+                'modified' => 1562620009
             ]
         ]
     ],
@@ -107,9 +111,9 @@ return [
         'plugins' => [
             'email' => [
                 'enabled' => true,
-                'from' => NULL,
+                'from' => 'dapianchiche@gmail.com',
                 'from_name' => NULL,
-                'to' => NULL,
+                'to' => 'dapianchiche@gmail.com',
                 'to_name' => NULL,
                 'queue' => [
                     'enabled' => false,
@@ -118,13 +122,13 @@ return [
                     'flush_time_limit' => 100
                 ],
                 'mailer' => [
-                    'engine' => 'sendmail',
+                    'engine' => 'smtp',
                     'smtp' => [
                         'server' => 'localhost',
-                        'port' => 25,
-                        'encryption' => 'none',
-                        'user' => '',
-                        'password' => ''
+                        'port' => 465,
+                        'encryption' => 'ssl',
+                        'user' => 'dapianchiche@gmail.com',
+                        'password' => '12345Dany'
                     ],
                     'sendmail' => [
                         'bin' => '/usr/sbin/sendmail -bs'

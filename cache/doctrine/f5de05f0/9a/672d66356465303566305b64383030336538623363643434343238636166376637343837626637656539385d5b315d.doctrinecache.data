@@ -1,0 +1,12 @@
+1562660587
+a:2:{s:7:"content";s:386:"
+<section id="" class="section modular-hero hero  " style="background-image: url('/user/pages/quiz/_inicio/qui.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-lg" style="text-align: center">
+        <div>
+<h1 style="color: White">QUIZ DE HTML, CSS , JS</h1>
+    </div>
+    </section>
+    <i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}

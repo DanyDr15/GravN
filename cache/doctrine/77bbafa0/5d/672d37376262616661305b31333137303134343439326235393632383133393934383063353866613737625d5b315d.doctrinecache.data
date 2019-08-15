@@ -1,0 +1,39 @@
+1563412582
+a:2:{s:7:"content";s:1853:"
+<section class="section modular-text  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns left">
+                        <div class="column col-6 col-md-12">
+                <h4>PIXI</h4>
+<p>pixi.js es un renderizador 2D para WebGL, con soporte para canvas HTML5 si el WebGL no está disponible. De hecho pixi.js permite disfrutar del poder de la aceleración por hardware sin ser necesario el conocimiento previo de WebGL.</p>
+<h4>¿Para que sirve?</h4>
+<p>Sirve para describir el diseño del juego en un gráfico de escena, y un representador, que realmente dibuja los elementos en la fase a la pantalla mediante el elemento canvas o WebGL. Incorpora Sprites que son basicamente imágenes que se pueden controlar con código, se puede controlar su tamaño posición y otras propiedades que lo hacen muy útil para hacer gráficos interactivos y animados. Saber utilizar los sprites es una de las cosas más importantes a la hora de desarrollar juegos con Pixi.</p>
+<h4>Ventajas y desventaja en Jump &amp; Run</h4>
+<blockquote>
+<h5>Ventajas</h5>
+<ul>
+<li>Tiene mayor cantidad de visitas en sus repositorios y si le estan dando mantenimiento</li>
+<li>Open Source.</li>
+<li>Gran comunidad</li>
+<li>Actualización diaria de ejemplos y nuevos juegos.</li>
+<li>Responsive.</li>
+<li>Facilidad de crear un juego en muy poco tiempo.</li>
+<li>Sistema de plugins.</li>
+<li>Todas las herramientas disponibles.</li>
+<li>Potente</li>
+</ul>
+<h5>Desventajas</h5>
+<ul>
+<li>Alguna herramienta tiene algún pequeño error.</li>
+<li>Se puede quedar pequeño, dependiendo de la ambición del proyecto.</li>
+</ul>
+</blockquote>
+<hr>
+            </div>
+            <div class="column col-6 col-md-12">
+                <img alt="" src="/user/pages/analisis/_pixi/pixi.png" />
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

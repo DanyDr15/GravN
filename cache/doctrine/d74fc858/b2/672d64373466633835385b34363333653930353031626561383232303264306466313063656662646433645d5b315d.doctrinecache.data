@@ -1,0 +1,31 @@
+1563228515
+a:2:{s:7:"content";s:1181:"
+<section class="section modular-text  bg-gray">
+    <section class="container grid-lg">
+        <div class="columns left">
+                        <div class="column col-6 col-md-12">
+                <h2>Melonjs</h2>
+<p>MelonJS es un motor de juegos HTML5 de código abierto que permite a los desarrolladores y diseñadores centrarse en el contenido, ademas carga de mapa de página sin comprimir, Base64, CSV y JSON codificada XML</p>
+<h2>¿Para que sirve?</h2>
+<p>melonJS sirve para integrar el popular formato de mapa en mosaico, lo que permite a los diseñadores crear niveles fácilmente con el editor de mapas en mosaico, y centrarse en las características del juego en sí.</p>
+<h4>Ventajas y desventaja en Jump &amp; Run</h4>
+<blockquote>
+<h5>Ventajas</h5>
+<ul>
+<li>No tiene mucho mantenimiento</li>
+<li>Rapido</li>
+<li>Ligero</li>
+</ul>
+<h5>Desventajas</h5>
+<ul>
+<li>No tiene muchas herramientas para el control de interfaces.</li>
+</ul>
+</blockquote>
+            </div>
+            <div class="column col-6 col-md-12">
+                <img alt="" src="/user/pages/analisis/_melonjs/melon2.png" />
+            </div>
+                    </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

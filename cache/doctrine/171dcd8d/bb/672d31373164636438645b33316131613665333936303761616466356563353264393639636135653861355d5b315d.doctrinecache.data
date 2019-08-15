@@ -1,0 +1,132 @@
+1563228187
+a:2:{s:7:"content";s:8371:"<section class="section modular-features small">
+        <section class="container grid-lg">
+            <div class="frame-box">
+
+                <h1>BLOGS</h1>
+<body style="background-color:#F4F6F7;">
+</body>
+
+                <div class="columns">
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/examen">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-lightbulb-o"></i>
+                                                     <h6>MEMORIA</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Juego del examen</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="https://analytics.google.com/analytics/web/#/report-home/a142867048w204134053p197581472">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-google-plus"></i>
+                                                     <h6>Google Analytic</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Visitas a la pagina</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/user/game/t_hunter.html">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-rocket"></i>
+                                                     <h6>Phaser</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Juego hecho con phaser</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/analisis">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-pencil"></i>
+                                                     <h6>Analisis Frameworks</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Frameworks de juegos</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/jogo">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-gamepad"></i>
+                                                     <h6>Juego</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Juego realizado en canvan</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/bienvenidos-a-graficacion/bandera">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-chevron-circle-right"></i>
+                                                     <h6>Bandera</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Ejercicio de la bandera de Jamaica</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/bienvenidos-a-graficacion/reloj">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-clock-o"></i>
+                                                     <h6>Reloj</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Ejercicio hecho con canvan</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/bienvenidos-a-graficacion/escudo">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-flag-o"></i>
+                                                     <h6>Escudo Ecuador</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Realizado con svg</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/carpetas">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-folder"></i>
+                                                     <h6>Carpetas Grav</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Se habla de cada una de las carpetas </p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/quiz">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-pencil-square-o"></i>
+                                                     <h6>Quiz html,css,js</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Test de cada uno</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/juegojs">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-html5"></i>
+                                                     <h6>JavaScrips</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Se ingresa el numero para realizar el grafico</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/ascensor">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-columns"></i>
+                                                     <h6>Ejercicio Ascensor</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Codigo de niveles elevator saga</p>
+                                               </div>
+                   </div>
+                                   <div class="column col-3 col-md-4 col-sm-6">
+                      <a href="/css">                      <div class="feature-icon">
+                         <i class="fa fa-fw fa fa-codiepie"></i>
+                                                     <h6>Ejercicios Css</h6>
+                                               </div>
+                      </a>                      <div class="feature-content">
+                                                  <p>Ejercicios resueltos</p>
+                                               </div>
+                   </div>
+                                </div>
+            </div>
+        </section>
+</section>
+";s:12:"content_meta";N;}

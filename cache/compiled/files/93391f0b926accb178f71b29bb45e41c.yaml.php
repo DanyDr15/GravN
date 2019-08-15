@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://login/login.yaml',
-    'modified' => 1561848306,
+    'modified' => 1562620009,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,
